@@ -1,6 +1,6 @@
 # Exercícios de Probabilidade e Amostragem 📊
 
-Este repositório contém a resolução de uma lista de exercícios práticos desenvolvida durante o **Bootcamp Data Analytics da WoMakersCode**. 
+Este repositório contém a resolução de uma lista de exercícios práticos desenvolvida durante o **Bootcamp Data Analytics da WoMakersCode**. Essa resolução pode ser visualizada [aqui](/Exercicios_Probabilidade_Amostragem.ipynb).
 
 ## 🎯 Objetivo do Projeto
 O objetivo principal é aplicar conceitos de probabilidade e amostragem utilizando uma base de dados fictícia da força de trabalho da população brasileira.
